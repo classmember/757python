@@ -16,6 +16,9 @@ https://docs.google.com/presentation/d/1tx2O3T5w5I6NwnutpT8IHuWv5novBoQGOrLkPzTm
 Free Online REPL to practice Python:
 https://repl.it/languages/python3
 
+Packaging Docs:
+https://www.pypa.io/en/latest/
+
 Study Material
 
  - https://www.technicallyproduct.co.uk/online-learning/preparing-for-the-pcep-exam-with-the-python-essentials-part-1-course/
@@ -26,9 +29,6 @@ Study Material
 Tutorials:
  - https://www.hackerrank.com/domains/python
  - https://leetcode.com/python/
-
-Packaging Docs:
-https://www.pypa.io/en/latest/
 
 Libraries:
  - https://awesome-python.com/
