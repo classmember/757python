@@ -4,6 +4,9 @@ This is a repository for the 757 Python User Group
 Meetup Group:
 https://www.meetup.com/757-Python-Users-Group/events/hppgsrybclbrb
 
+Meeting Times:
+Monday 8:00 - 8:30 PM
+
 Discord:
 https://discord.gg/d3UNY5q
 
@@ -16,4 +19,18 @@ https://repl.it/languages/python3
 Study Material
 
  - https://www.technicallyproduct.co.uk/online-learning/preparing-for-the-pcep-exam-with-the-python-essentials-part-1-course/
- - More study material is welcome. This repo is open to pull requests.
+ - https://stackoverflow.com/questions/tagged/python
+ - https://realpython.com/
+ - https://devdocs.io/python~3.8/
+ 
+Tutorials:
+ - https://www.hackerrank.com/domains/python
+ - https://leetcode.com/python/
+
+Packaging Docs:
+https://www.pypa.io/en/latest/
+
+Libraries:
+ - https://awesome-python.com/
+ 
+### More study material is welcome. This repo is open to pull requests.
