@@ -25,6 +25,7 @@ Study Material
  - https://stackoverflow.com/questions/tagged/python
  - https://realpython.com/
  - https://devdocs.io/python~3.8/
+ - https://devdocs.io/python~3.10/
  
 Tutorials:
  - https://www.hackerrank.com/domains/python
